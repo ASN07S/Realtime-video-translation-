@@ -101,7 +101,7 @@ The system performs **live audio translation** during video calls by chaining to
 
 ### 🔁 Workflow Sequence
 
-![Audio Translation Flow](./rtm/media/flow diagram.png)
+![Audio Translation Flow](./rtm/media/flow%20diagram.png)
 
 1. The client captures microphone audio.
 2. Audio is transcribed via ASR (Speech-to-Text).
