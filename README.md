@@ -113,7 +113,7 @@ The system performs **live audio translation** during video calls by chaining to
 
 ### 🧠 System Architecture
 
-![System Diagram](./media/rtmworking.png)
+![System Diagram](./rtm/media/rtmworking.png)
 
 - **Frontend** handles UI controls, language selection, and user media (video/audio).
 - **main.js** performs speech recognition, translation, and synthesis.
